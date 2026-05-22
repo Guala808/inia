@@ -1,9 +1,9 @@
 // ==================== EMAILJS SETUP ====================
 // Replace these with your actual EmailJS credentials
-emailjs.init("NAythYA8vOtdRVMVj");
+emailjs.init("kkqcbxQ5u8m3gTS_g");
 
-const SERVICE_ID = "service_neut5bf";
-const TEMPLATE_ID = "template_3sofhr9";
+const SERVICE_ID = "service_zrq1viq";
+const TEMPLATE_ID = "template_icqc5ff";
 
 // ==================== DOM ELEMENTS ====================
 const step1 = document.getElementById('step1');
