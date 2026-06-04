@@ -2,7 +2,7 @@
 // Replace these with your actual EmailJS credentials
 emailjs.init("kkqcbxQ5u8m3gTS_g");
 
-const SERVICE_ID = "service_zrq1viq";
+const SERVICE_ID = "service_jlyqtrj";
 const TEMPLATE_ID = "template_icqc5ff";
 
 // ==================== DOM ELEMENTS ====================
